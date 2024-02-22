@@ -1,4 +1,5 @@
 import os
+
 #!//Library/Frameworks/Python.framework/Versions/3.12/bin/python3
 chmod 755 env-vars.py
 os.environ["FAV_SUBJECT"] = "ENGLISH"
